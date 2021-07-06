@@ -13,7 +13,7 @@ Tabela de conteúdos
 
 ## Descrição do Projeto
 
-<p align="center">O teste consiste na criação de um chat com comunicação reativa e troca de mensagens de texto e envio de mídias</p>
+<p align="left">O teste consiste na criação de um chat com comunicação reativa e troca de mensagens de texto e envio de mídias</p>
 
 <h2 align="center"> 
 	🚧  Backend 🚀 Em construção...  🚧
@@ -37,10 +37,14 @@ Tabela de conteúdos
 - [x] Controller de usuário
 - [x] Cadastro de usuário
 - [x] Login de usuário
+- [x] Controller de Sala
+- [x] Criação de sala
+- [ ] Listagem de salas
 - [x] Criação de token no cadastro de novo usuário
-- [ ] Autenticação JWT
-- [ ] Conexão Backend com MongoDB
+- [x] Autenticação JWT
+- [x] Conexão Backend com MongoDB
 - [ ] Instalação do Socket Io
+- [ ] Storage de mídias
 
 ### Rodando o Backend
 
